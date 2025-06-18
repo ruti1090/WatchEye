@@ -1,0 +1,1 @@
+yolo task=detect mode=predict model="C:\\Users\\USER\\Desktop\\PROJECT\\NEWYOLO\\best.pt" source ="C:\Users\USER\Desktop\py\out\masked_image_masked_image_with_bbox_masked_image_frame_1_detection_ _provided_detection_ .jpg" save_txt=true
