@@ -40,7 +40,7 @@ Machine Learning & Computer Vision
 - NVIDIA GPU Acceleration: Enhanced performance for real-time processing
 
  Object Detection
-- YOLO v8: State-of-the-art object detection for movements swimmer 
+- YOLO v8: State-of-the-art object detection for swimmer movements 
 - Custom trained models: Specialized for Certain postures and movements detection
 
 System Architecture
